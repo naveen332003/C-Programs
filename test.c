@@ -1,4 +1,5 @@
-/*Eg1:
+/*QUESTION
+Eg1:
 input:a1b10
 output:abbbbbbbbbb
 Eg2:
